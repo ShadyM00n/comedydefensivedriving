@@ -39,8 +39,8 @@ This script uses Node.js and the `axios` library to automate interactions with t
    - Go to the Network tab.
    - Refresh the page.
    - Find `dashboard.php` in the list of network requests.
-   - Click on `dashboard.php` and right click.
-   - Hove over the `copy` option, and click `Copy as fetch (Node.js)`.
+   - Right click on `dashboard.php`.
+   - Hover over the `copy` option, and click `Copy as fetch (Node.js)`.
    - Enter the cookie string into the script.
 
 
