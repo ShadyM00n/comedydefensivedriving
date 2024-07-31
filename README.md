@@ -34,8 +34,16 @@ This script uses Node.js and the `axios` library to automate interactions with t
 
 1. **Cookies and Headers:**  
    The script requires valid session cookies to authenticate requests to the website. These cookies should be obtained from your browser session and inserted into the script.
+   The __Cookie__ data can be found by following these steps:
+   - Go to the Network tab.
+   - Refresh the page.
+   - Find `dashboard.php` in the list of network requests.
+   - Click on `dashboard.php` and right click.
+   - Hove over the `copy` option, and click `Copy as fetch (Node.js)`.
+   - Enter the cookie string into the script.
 
-2. **Screen ID:**  
+
+3. **Screen ID:**  
    The `screenID` parameter is required for the POST request to the `dashboard.php` endpoint. This value changes after each exam and verification question. To get the latest `screenID`, follow these steps:
    - Open the browser's Inspect tool.
    - Go to the Network tab.
@@ -44,7 +52,7 @@ This script uses Node.js and the `axios` library to automate interactions with t
    - Click on `dashboard.php` and go to the Payload tab.
    - Copy the `screenID` value.
 
-3. **POST Request:**  
+4. **POST Request:**  
    The script sends a POST request to the `dashboard.php` endpoint with the necessary data and headers to simulate interactions with the website.
 
 ## ⚙️ Script Setup
