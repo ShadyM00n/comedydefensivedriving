@@ -15,9 +15,14 @@ This script uses Node.js and the `axios` library to automate interactions with t
 ## 🛠️ Prerequisites
 
 1. **Node.js** installed on your system.
-2. **Install `axios` and `qs` libraries**:
+2. **Install `axios` and `qs` libraries**: 
+    NPM
     ```bash
-    npm install axios qs
+    npm i axios qs
+    ```
+    YARN
+   ```bash
+    yarn add axios qs
     ```
 3. **Valid session cookies** from the Comedy Defensive Driving website.
 
