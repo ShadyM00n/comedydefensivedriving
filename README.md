@@ -15,7 +15,8 @@ This script uses Node.js and the `axios` library to automate interactions with t
 ## 🛠️ Prerequisites
 
 1. **Node.js** installed on your system.
-2. **Install `axios` and `qs` libraries**: 
+2. **Install `axios` and `qs` libraries**:
+
     NPM
     ```bash
     npm i axios qs
