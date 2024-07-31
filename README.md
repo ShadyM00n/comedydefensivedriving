@@ -79,4 +79,8 @@ To run the script, use the following command:
 node index.js
 ```
 
+### Credits
+    - [ShadyMoon](https://github.com/ShadyM00n) | Creating the script
+    - [Evilmadmax](https://github.com/Evilmadmax) | Taking the suspension course for blowing up a car lol
+
 copyright cdd-fowarding © 2024
