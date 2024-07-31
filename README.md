@@ -77,3 +77,5 @@ This script uses Node.js and the `axios` library to automate interactions with t
 To run the script, use the following command:
 ```bash
 node index.js
+
+copyright cdd-fowarding © 2024
