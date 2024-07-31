@@ -34,7 +34,8 @@ This script uses Node.js and the `axios` library to automate interactions with t
 
 1. **Cookies and Headers:**  
    The script requires valid session cookies to authenticate requests to the website. These cookies should be obtained from your browser session and inserted into the script.
-   The __Cookie__ data can be found by following these steps:
+   
+  #### The __Cookie__ data can be found by following these steps:
    - Go to the Network tab.
    - Refresh the page.
    - Find `dashboard.php` in the list of network requests.
