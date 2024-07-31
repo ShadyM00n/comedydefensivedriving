@@ -83,6 +83,6 @@ node index.js
 
 [ShadyMoon](https://github.com/ShadyM00n) | Creating the script
 
-Evilmadmax | Taking the suspension course for blowing up a car lol
+[Evilmadmax](https://www.youtube.com/watch?v=oHg5SJYRHA0) | Taking the suspension course for blowing up a car lol
 
 copyright cdd-fowarding © 2024
