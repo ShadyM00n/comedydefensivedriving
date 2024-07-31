@@ -61,13 +61,10 @@ This script uses Node.js and the `axios` library to automate interactions with t
 ## ⚙️ Script Setup
 
 1. Clone or download this repository.
-2. Open the `index.js` file and fill in the required cookie values and screen ID.
+2. Open the `index.js` file and fill in the required cookie value and screen ID.
     ```javascript
-    const PHPSESSID = 'your_session_id';
-    const ps_rvm_iQ8Q = 'your_cookie_value';
-    const CDDS_EMAIL = 'your_email';
-    const CDDS_CMR_ID = 'your_cmr_id';
-    const ps_rvm_K3tR = 'your_cookie_value';
+    // Cookie contents # dont change after setting
+    const cookie = `your_cookie_content`;
     ```
 
 3. Replace the placeholder `screenID` with the actual value.
