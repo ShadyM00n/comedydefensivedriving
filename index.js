@@ -4,7 +4,7 @@ Discord: shady.js
 I am not responsible for any actions taken against you for using this.
 This is for educational awareness and purposes ONLY
 Reach out to me if you have any questions;
-this may work for other sites but as i havent tested, i cannot be sure.
+this may work for other sites but as i havent tested it, so i cannot be sure.
 */
 
 const axios = require('axios'); const qs = require('qs');
