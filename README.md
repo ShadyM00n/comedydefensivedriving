@@ -1,6 +1,7 @@
 # Automated Script for Comedy Defensive Driving
 
 **Disclaimer:**  
+**You *WILL FAIL* the course unless you complete the exams, and verification questions yourself, if you attempt to complete them using the script, you will not pass the course.**
 
 *Please note: The Comedy Defensive Driving website may display a message stating "You failed this course" when using this script. This message is incorrect, and you will receive your certificate via email as long as all other criteria are met. Ensure you verify the completion of the course through official means.*
 
