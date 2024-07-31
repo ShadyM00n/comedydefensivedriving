@@ -1,6 +1,9 @@
 # Automated Script for Comedy Defensive Driving
 
 **Disclaimer:**  
+
+*Please note: The Comedy Defensive Driving website may display a message stating "You failed this course" when using this script. This message is incorrect, and you will receive your certificate via email as long as all other criteria are met. Ensure you verify the completion of the course through official means.*
+
 *This script is for educational and awareness purposes ONLY. The author, ShadyMoon, is not responsible for any actions taken against you for using this script. Use at your own risk.*
 
 **Author:**  
